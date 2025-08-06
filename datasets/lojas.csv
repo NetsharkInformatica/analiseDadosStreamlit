@@ -1,0 +1,11 @@
+;estado;cidade;vendedores
+0;SP;São Paulo;['João Silva', 'Maria Oliveira', 'Carlos Souza']
+1;RJ;Rio de Janeiro;['Ana Costa', 'Pedro Santos']
+2;MG;Belo Horizonte;['Marcos Lima', 'Fernanda Alves', 'Ricardo Pereira']
+3;BA;Salvador;['Patrícia Rocha', 'Lucas Mendes']
+4;PR;Curitiba;['Gustavo Schmidt', 'Juliana Weber']
+5;SC;Florianópolis;['Roberto Krause', 'Camila Schultz']
+6;RS;Porto Alegre;['Diego Gonçalves', 'Tatiana Martins']
+7;PE;Recife;['Felipe Albuquerque', 'Vanessa Lopes']
+8;CE;Fortaleza;['Raquel Dias', 'Eduardo Nogueira']
+9;GO;Goiânia;['Márcio Castro', 'Simone Ribeiro', 'André Luiz']
