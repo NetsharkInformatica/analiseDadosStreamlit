@@ -88,7 +88,7 @@ PRODUTOS=[
 
 FORMA_PGTO=["cartão de credito", "cartão de débito","PIX","dinheiro"]
 
-GENERO_CLIENTES=["MALE","FEMALE"]
+GENERO_CLIENTES=["masculino","feminino"]
 compras=[]
 
 for _ in range(2000):
@@ -110,7 +110,7 @@ for _ in range(2000):
         "vendedor":vendedor,
         "produto":produto["nome"],
         "cliente_nome":nome_cliente,
-        "cliente_genero":genero_cliente.replace("MALE","masculino").replace("FEMALE","feminino"),
+        "cliente_genero":genero_cliente,#.replace("MALE","masculino").replace("FEMALE","feminino")
         "forma_pgto":forma_pagto
     
     })
